@@ -2,5 +2,5 @@
 
 ## Test reports
 [Algorrithms](https://apetrovskiy.github.io/testAlgo)
-[Codela](https://apetrovskiy.github.io/testCode)
-[Codility](https://apetrovskiy.github.io/testCodi)
+[Codela](https://apetrovskiy.github.io/testCode)...
+[CodeWars](https://apetrovskiy.github.io/testCoWa)
