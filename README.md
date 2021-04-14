@@ -7,6 +7,8 @@
 
 [Code Forces](https://apetrovskiy.github.io/testCoFo)
 
+[Code Signal](https://apetrovskiy.github.io/codeSignTest)
+
 [CodeWars](https://apetrovskiy.github.io/testCoWa)
 
 [Hacker Earth](https://apetrovskiy.github.io/testHaEa)
