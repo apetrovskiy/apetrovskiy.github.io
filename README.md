@@ -12,3 +12,5 @@
 [Hacker Earth](https://apetrovskiy.github.io/testHaEa)
 
 [Hacker Rank](https://apetrovskiy.github.io/testHaRa)
+
+[LeetCode](https://apetrovskiy.github.io/testLeCo)
