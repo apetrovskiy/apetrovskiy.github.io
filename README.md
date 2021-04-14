@@ -5,4 +5,6 @@
 
 [Codela](https://apetrovskiy.github.io/testCode)
 
+[Code Forces](https://apetrovskiy.github.io/testCoFo)
+
 [CodeWars](https://apetrovskiy.github.io/testCoWa)
