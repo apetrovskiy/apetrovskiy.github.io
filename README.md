@@ -13,6 +13,8 @@
 
 [Codility](https://apetrovskiy.github.io/testCodi)
 
+[Academy](https://apetrovskiy.github.io/testCsAc)
+
 [Geeks for Geeks](https://apetrovskiy.github.io/testGfG)
 
 [Hacker Earth](https://apetrovskiy.github.io/testHaEa)
