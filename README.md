@@ -1,12 +1,10 @@
 # apetrovskiy.github.io
 
-## Challenges
+|Challenges|
+-----------------------------------------------------
 |[Algorithms](https://apetrovskiy.github.io/testAlgo)|
-
 |[Codela](https://apetrovskiy.github.io/testCode)|
-
 |[Code Forces](https://apetrovskiy.github.io/testCoFo)|
-
 |[Code Signal](https://apetrovskiy.github.io/codeSignTest)|
 
 |[Code Wars](https://apetrovskiy.github.io/testCoWa)|
