@@ -21,6 +21,8 @@
 
 [Hacker Rank](https://apetrovskiy.github.io/testHaRa)
 
+[Interview Bit](https://apetrovskiy.github.io/testInBi)
+
 [LeetCode](https://apetrovskiy.github.io/testLeCo)
 
 [Online Judge](https://apetrovskiy.github.io/testOnJu)
