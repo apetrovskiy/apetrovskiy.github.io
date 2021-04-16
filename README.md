@@ -1,6 +1,4 @@
-![Alexander Petrovskiy](https://user-images.githubusercontent.com/2947151/115086493-090e6500-9f15-11eb-9f88-34d176ea0a95.png)
-
-[Dev story](https://stackoverflow.com/story/apetrovskiy) or [traditional CV](https://stackoverflow.com/cv/apetrovskiy)
+[Dev story](https://stackoverflow.com/story/apetrovskiy) or [traditional CV](https://stackoverflow.com/cv/apetrovskiy)  ![Alexander Petrovskiy](https://user-images.githubusercontent.com/2947151/115086493-090e6500-9f15-11eb-9f88-34d176ea0a95.png)
 
 | Challenges |
 | :---         |
