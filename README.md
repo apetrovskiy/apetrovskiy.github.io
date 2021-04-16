@@ -18,8 +18,8 @@
 |[LeetCode](https://apetrovskiy.github.io/testLeCo)|
 |[Online Judge](https://apetrovskiy.github.io/testOnJu)|
 
-|Sample projects|
-|----------|
-|[River Island](https://apetrovskiy.github.io/httpbin-test-task)|
+|Sample projects|Tech stack|
+|----------|---------------|
+|[River Island](https://apetrovskiy.github.io/httpbin-test-task)|Python, pytest, behave|
 
 
