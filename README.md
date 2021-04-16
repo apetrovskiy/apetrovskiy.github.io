@@ -1,4 +1,7 @@
 # apetrovskiy.github.io
+![Alexander Petrovskiy](https://avatars.githubusercontent.com/u/2947151?v=4)
+
+[Dev story](https://stackoverflow.com/story/apetrovskiy) or [traditional CV](https://stackoverflow.com/cv/apetrovskiy)
 
 | Challenges |
 | :---         |
