@@ -1,31 +1,31 @@
 # apetrovskiy.github.io
 
 ## Challenges
-[Algorithms](https://apetrovskiy.github.io/testAlgo)
+|[Algorithms](https://apetrovskiy.github.io/testAlgo)|
 
-[Codela](https://apetrovskiy.github.io/testCode)
+|[Codela](https://apetrovskiy.github.io/testCode)|
 
-[Code Forces](https://apetrovskiy.github.io/testCoFo)
+|[Code Forces](https://apetrovskiy.github.io/testCoFo)|
 
-[Code Signal](https://apetrovskiy.github.io/codeSignTest)
+|[Code Signal](https://apetrovskiy.github.io/codeSignTest)|
 
-[Code Wars](https://apetrovskiy.github.io/testCoWa)
+|[Code Wars](https://apetrovskiy.github.io/testCoWa)|
 
-[Codility](https://apetrovskiy.github.io/testCodi)
+|[Codility](https://apetrovskiy.github.io/testCodi)|
 
-[CS Academy](https://apetrovskiy.github.io/testCsAc)
+|[CS Academy](https://apetrovskiy.github.io/testCsAc)|
 
-[Geeks for Geeks](https://apetrovskiy.github.io/testGfG)
+|[Geeks for Geeks](https://apetrovskiy.github.io/testGfG)|
 
-[Hacker Earth](https://apetrovskiy.github.io/testHaEa)
+|[Hacker Earth](https://apetrovskiy.github.io/testHaEa)|
 
-[Hacker Rank](https://apetrovskiy.github.io/testHaRa)
+|[Hacker Rank](https://apetrovskiy.github.io/testHaRa)|
 
-[Interview Bit](https://apetrovskiy.github.io/testInBi)
+|[Interview Bit](https://apetrovskiy.github.io/testInBi)|
 
-[LeetCode](https://apetrovskiy.github.io/testLeCo)
+|[LeetCode](https://apetrovskiy.github.io/testLeCo)|
 
-[Online Judge](https://apetrovskiy.github.io/testOnJu)
+|[Online Judge](https://apetrovskiy.github.io/testOnJu)|
 
 ## Sample projects
 [River Island](https://apetrovskiy.github.io/httpbin-test-task)
