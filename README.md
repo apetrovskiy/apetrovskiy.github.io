@@ -9,7 +9,9 @@
 
 [Code Signal](https://apetrovskiy.github.io/codeSignTest)
 
-[CodeWars](https://apetrovskiy.github.io/testCoWa)
+[Code Wars](https://apetrovskiy.github.io/testCoWa)
+
+[Codility](https://apetrovskiy.github.io/testCodi)
 
 [Geeks for Geeks](https://apetrovskiy.github.io/testGfG)
 
