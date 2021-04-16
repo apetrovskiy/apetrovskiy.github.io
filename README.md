@@ -1,6 +1,6 @@
 # apetrovskiy.github.io
 
-## Test reports
+## Challenges
 [Algorithms](https://apetrovskiy.github.io/testAlgo)
 
 [Codela](https://apetrovskiy.github.io/testCode)
@@ -26,3 +26,6 @@
 [LeetCode](https://apetrovskiy.github.io/testLeCo)
 
 [Online Judge](https://apetrovskiy.github.io/testOnJu)
+
+## Sample projects
+[River Island](https://apetrovskiy.github.io/httpbin-test-task)
