@@ -22,6 +22,7 @@
 | [Online Judge](https://github.com/apetrovskiy/testOnJu)   | [Online Judge](https://apetrovskiy.github.io/testOnJu)   |
 
 ### Sample projects
+
 | Project| Report| Tech stack|
 |-------------------------------------------------------------------------------!-|-----------------------------------------------------------------------------|--------------------------------|
 | [River Island](https://github.com/apetrovskiy/httpbin-test-task)                | [River Island](https://apetrovskiy.github.io/httpbin-test-task)             | Python, pytest, behave         |
