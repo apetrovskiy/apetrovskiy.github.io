@@ -27,3 +27,37 @@
 |[Scala Cucumber Allure](https://github.com/apetrovskiy/scala-gradle-cucumber)   |[Scala Cucumber Allure](https://apetrovskiy.github.io/scala-gradle-cucumber)|Scala, gradle, cucumber, allure|
 
 
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
+
+
+| Flag                | Code | Region         |
+|:--------------------|:-----|:---------------|
+| ![AD](png/EU.png)   | EU   | European Union |
+| ![AE](png/WW.png)   | WW   | World          |
+| ![CNA](png/CNA.png) | CNA  | North America  |
+| ![CSA](png/CSA.png) | CSA  | South America  |
+| ![CEU](png/CEU.png) | CEU  | Europe         |
+| ![CAF](png/CAF.png) | CAF  | Africa         |
+| ![CAS](png/CAS.png) | CAS  | Asia           |
+| ![COC](png/COC.png) | COC  | Oceania        |
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
