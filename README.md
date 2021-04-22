@@ -5,7 +5,7 @@
 
 ### Challenges
 | Repo                                                      | Status                                                    |
-|:----------------------------------------------------------|:----------------------------------------------------------|
+|-----------------------------------------------------------|-----------------------------------------------------------|
 | [Algorithms](https://github.com/apetrovskiy/testAlgo)     | ![Algorithms](https://apetrovskiy.github.io/testAlgo)     |
 | [Codela](https://github.com/apetrovskiy/testCode)         | ![Codela](https://apetrovskiy.github.io/testCode)         |
 | [Code Forces](https://github.com/apetrovskiy/testCoFo)    | ![Code Forces](https://apetrovskiy.github.io/testCoFo)    |
@@ -21,10 +21,10 @@
 | [Online Judge](https://github.com/apetrovskiy/testOnJu)   | ![Online Judge](https://apetrovskiy.github.io/testOnJu)   |
 
 ### Sample projects
-|Project|Report|Tech stack|
+| Project| Report| Tech stack|
 |--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------|
-|[River Island](https://github.com/apetrovskiy/httpbin-test-task)                |[River Island](https://apetrovskiy.github.io/httpbin-test-task)                   |Python, pytest, behave                 |
-|[Scala Cucumber Allure](https://github.com/apetrovskiy/scala-gradle-cucumber)   |[Scala Cucumber Allure](https://apetrovskiy.github.io/scala-gradle-cucumber)|Scala, gradle, cucumber, allure|
+| [River Island](https://github.com/apetrovskiy/httpbin-test-task)                | [River Island](https://apetrovskiy.github.io/httpbin-test-task)                   | Python, pytest, behave                 |
+| [Scala Cucumber Allure](https://github.com/apetrovskiy/scala-gradle-cucumber)   | [Scala Cucumber Allure](https://apetrovskiy.github.io/scala-gradle-cucumber)| Scala, gradle, cucumber, allure|
 
 | PS doc dpi* | PS doc res | designing FOR Android density | PS Pt size | Formula            | Android Dp/Sp  |
 |-------------|------------|-------------------------------|------------|--------------------|----------------|
