@@ -4,7 +4,7 @@
 
 
 ### Challenges
-|Repo|Status|Tests|
+|Repo|Status|
 | :---         |:---         |
 |[Algorithms](https://github.com/apetrovskiy/testAlgo)|[Algorithms](https://apetrovskiy.github.io/testAlgo)|
 |[Codela](https://github.com/apetrovskiy/testCode)|[Codela](https://apetrovskiy.github.io/testCode)|
