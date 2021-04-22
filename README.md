@@ -28,6 +28,9 @@
 | [River Island](https://github.com/apetrovskiy/httpbin-test-task)                | [River Island](https://apetrovskiy.github.io/httpbin-test-task)             | Python, pytest, behave         |
 | [Scala Cucumber Allure](https://github.com/apetrovskiy/scala-gradle-cucumber)   | [Scala Cucumber Allure](https://apetrovskiy.github.io/scala-gradle-cucumber)| Scala, gradle, cucumber, allure|
 
+
+
+
 | PS doc dpi* | PS doc res | designing FOR Android density | PS Pt size | Formula            | Android Dp/Sp  |
 |-------------|------------|-------------------------------|------------|--------------------|----------------|
 | 72dpi       | 320x480    | MD (160 dpi) 1x               | 10         | (72/72) * 1 * 10   | 10             |
