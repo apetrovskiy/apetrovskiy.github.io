@@ -20,6 +20,11 @@
 | [LeetCode](https://github.com/apetrovskiy/testLeCo)       | [LeetCode](https://apetrovskiy.github.io/testLeCo)       |
 | [Online Judge](https://github.com/apetrovskiy/testOnJu)   | [Online Judge](https://apetrovskiy.github.io/testOnJu)   |
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| [Algorithms](https://github.com/apetrovskiy/testAlgo)   | git status     | [Algorithms](https://apetrovskiy.github.io/testAlgo)    |
+| git diff     | git diff       | git diff      |
+
 ### Sample projects
 | Project| Report| Tech stack|
 |-------------------------------------------------------------------------------!-|-----------------------------------------------------------------------------|--------------------------------|
