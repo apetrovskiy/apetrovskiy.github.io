@@ -14,10 +14,15 @@
 |[Codility](https://github.com/apetrovskiy/testCodi)|[Codility](https://apetrovskiy.github.io/testCodi)|
 |[CS Academy](https://github.com/apetrovskiy/testCsAc)|[CS Academy](https://apetrovskiy.github.io/testCsAc)|
 |[Geeks for Geeks](https://github.com/apetrovskiy/testGfG)|[Geeks for Geeks](https://apetrovskiy.github.io/testGfG)|
+
 |[Hacker Earth](https://github.com/apetrovskiy/testHaEa)|[Hacker Earth](https://apetrovskiy.github.io/testHaEa)|
+
 |[Hacker Rank](https://github.com/apetrovskiy/testHaRa)|[Hacker Rank](https://apetrovskiy.github.io/testHaRa)|
+
 |[Interview Bit](https://github.com/apetrovskiy/testInBi)|[Interview Bit](https://apetrovskiy.github.io/testInBi)|
+
 |[LeetCode](https://github.com/apetrovskiy/testLeCo)|[LeetCode](https://apetrovskiy.github.io/testLeCo)|
+
 |[Online Judge](https://github.com/apetrovskiy/testOnJu)|[Online Judge](https://apetrovskiy.github.io/testOnJu)|
 
 ### Sample projects
