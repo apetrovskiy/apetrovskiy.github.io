@@ -1,11 +1,12 @@
-|![Alexander Petrovskiy](https://user-images.githubusercontent.com/2947151/115086493-090e6500-9f15-11eb-9f88-34d176ea0a95.png)|[Dev story](https://stackoverflow.com/story/apetrovskiy)|[Traditional CV](https://stackoverflow.com/cv/apetrovskiy)|
-|--|--|--|
-|  |  |  |
+![Alexander Petrovskiy](https://user-images.githubusercontent.com/2947151/115086493-090e6500-9f15-11eb-9f88-34d176ea0a95.png)
+[CV](https://stackoverflow.com/cv/apetrovskiy)
+[Dev story](https://stackoverflow.com/story/apetrovskiy)
+
 
 ### Challenges
-|Repo|Status|
-| :---         |:---         |
-|[Algorithms](https://github.com/apetrovskiy/testAlgo)|[Algorithms](https://apetrovskiy.github.io/testAlgo)|
+|Repo|Status|Tests|
+| :---         |:---         |---         |
+|[Algorithms](https://github.com/apetrovskiy/testAlgo)|[Algorithms](https://apetrovskiy.github.io/testAlgo)| |
 |[Codela](https://github.com/apetrovskiy/testCode)|[Codela](https://apetrovskiy.github.io/testCode)|
 |[Code Forces](https://github.com/apetrovskiy/testCoFo)|[Code Forces](https://apetrovskiy.github.io/testCoFo)|
 |[Code Signal](https://github.com/apetrovskiy/codeSignTest)|[Code Signal](https://apetrovskiy.github.io/codeSignTest)|
