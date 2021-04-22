@@ -8,14 +8,14 @@
 | Repo | Status |
 | :---         | :---         |
 | [testAlgo](https://github.com/apetrovskiy/testAlgo)     | [Algorithms](https://apetrovskiy.github.io/testAlgo)     |
-| [testtCode](https://github.com/apetrovskiy/testCode)         | [Codela](https://apetrovskiy.github.io/testCode)         |
-| [testtCoFo](https://github.com/apetrovskiy/testCoFo)    | [Code Forces](https://apetrovskiy.github.io/testCoFo)    |
+| [testCode](https://github.com/apetrovskiy/testCode)         | [Codela](https://apetrovskiy.github.io/testCode)         |
+| [testCoFo](https://github.com/apetrovskiy/testCoFo)    | [Code Forces](https://apetrovskiy.github.io/testCoFo)    |
 | [codeSignTest](https://github.com/apetrovskiy/codeSignTest)| [Code Signal](https://apetrovskiy.github.io/codeSignTest)|
-| [testtCoWa](https://github.com/apetrovskiy/testCoWa)      | [Code Wars](https://apetrovskiy.github.io/testCoWa)      |
+| [testCoWa](https://github.com/apetrovskiy/testCoWa)      | [Code Wars](https://apetrovskiy.github.io/testCoWa)      |
 | [testCodi](https://github.com/apetrovskiy/testCodi)       | [Codility](https://apetrovskiy.github.io/testCodi)       |
 | [testCsAc](https://github.com/apetrovskiy/testCsAc)     | [CS Academy](https://apetrovskiy.github.io/testCsAc)     |
 | [testGfG](https://github.com/apetrovskiy/testGfG) | [Geeks for Geeks](https://apetrovskiy.github.io/testGfG) |
-| [testttHaEa](https://github.com/apetrovskiy/testHaEa)   | [Hacker Earth](https://apetrovskiy.github.io/testHaEa)   |
+| [testHaEa](https://github.com/apetrovskiy/testHaEa)   | [Hacker Earth](https://apetrovskiy.github.io/testHaEa)   |
 | [testHaRa](https://github.com/apetrovskiy/testHaRa)    | [Hacker Rank](https://apetrovskiy.github.io/testHaRa)    |
 | [testInBi](https://github.com/apetrovskiy/testInBi)  | [Interview Bit](https://apetrovskiy.github.io/testInBi)  |
 | [testLeCo](https://github.com/apetrovskiy/testLeCo)       | [LeetCode](https://apetrovskiy.github.io/testLeCo)       |
