@@ -5,12 +5,12 @@
 ### Challenges
 |Repo|Status|
 | :---         |:---         |
-|[Algorithms](https://github.com/apetrovskiy/testAlgo)|[status](https://apetrovskiy.github.io/testAlgo)|
-|[Codela](https://github.com/apetrovskiy/testCode)|[](https://apetrovskiy.github.io/testCode)|
-|[Code Forces](https://github.com/apetrovskiy/testCoFo)|[](https://apetrovskiy.github.io/testCoFo)|
-|[Code Signal](https://github.com/apetrovskiy/codeSignTest)|[](https://apetrovskiy.github.io/codeSignTest)|
-|[Code Wars](https://github.com/apetrovskiy/testCoWa)|[](https://apetrovskiy.github.io/testCoWa)|
-|[Codility](https://github.com/apetrovskiy/testCodi)|[](https://apetrovskiy.github.io/testCodi)|
+|[Algorithms](https://github.com/apetrovskiy/testAlgo)|[Algorithms](https://apetrovskiy.github.io/testAlgo)|
+|[Codela](https://github.com/apetrovskiy/testCode)|[Codela](https://apetrovskiy.github.io/testCode)|
+|[Code Forces](https://github.com/apetrovskiy/testCoFo)|[Code Forces](https://apetrovskiy.github.io/testCoFo)|
+|[Code Signal](https://github.com/apetrovskiy/codeSignTest)|[Code Signal](https://apetrovskiy.github.io/codeSignTest)|
+|[Code Wars](https://github.com/apetrovskiy/testCoWa)|[Code Wars](https://apetrovskiy.github.io/testCoWa)|
+|[Codility](https://github.com/apetrovskiy/testCodi)|[Codility](https://apetrovskiy.github.io/testCodi)|
 |[CS Academy](https://github.com/apetrovskiy/testCsAc)|[](https://apetrovskiy.github.io/testCsAc)|
 |[Geeks for Geeks](https://github.com/apetrovskiy/testGfG)|[](https://apetrovskiy.github.io/testGfG)|
 |[Hacker Earth](https://github.com/apetrovskiy/testHaEa)|[](https://apetrovskiy.github.io/testHaEa)|
