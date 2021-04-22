@@ -20,7 +20,6 @@
 | [Interview Bit](https://github.com/apetrovskiy/testInBi)  | [Interview Bit](https://apetrovskiy.github.io/testInBi)  |
 | [LeetCode](https://github.com/apetrovskiy/testLeCo)       | [LeetCode](https://apetrovskiy.github.io/testLeCo)       |
 | [Online Judge](https://github.com/apetrovskiy/testOnJu)   | [Online Judge](https://apetrovskiy.github.io/testOnJu)   |
-| git diff     | git diff      |
 
 ### Sample projects
 | Project| Report| Tech stack|
