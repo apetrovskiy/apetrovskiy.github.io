@@ -24,7 +24,10 @@
 ### Sample projects
 
 | Project| Report| Tech stack|
-|-------------------------------------------------------------------------------!-|-----------------------------------------------------------------------------|--------------------------------|
+| :------
+
+
+--------------------------------------------------------------------------| :---------------------------------------------------------------------------| :------------------------------|
 | [River Island](https://github.com/apetrovskiy/httpbin-test-task)                | [River Island](https://apetrovskiy.github.io/httpbin-test-task)             | Python, pytest, behave         |
 | [Scala Cucumber Allure](https://github.com/apetrovskiy/scala-gradle-cucumber)   | [Scala Cucumber Allure](https://apetrovskiy.github.io/scala-gradle-cucumber)| Scala, gradle, cucumber, allure|
 
