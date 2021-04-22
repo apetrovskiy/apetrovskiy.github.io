@@ -21,7 +21,7 @@
 | [Online Judge](https://github.com/apetrovskiy/testOnJu)   | [Online Judge](https://apetrovskiy.github.io/testOnJu)   |
 
 | Repo | Status |
-| :---         |          ---: |
+| :---         | :---         |
 | [Algorithms](https://github.com/apetrovskiy/testAlgo)   | [Algorithms](https://apetrovskiy.github.io/testAlgo)    |
 | [Codela](https://github.com/apetrovskiy/testCode)         | [Codela](https://apetrovskiy.github.io/testCode)         |
 | [Code Forces](https://github.com/apetrovskiy/testCoFo)    | [Code Forces](https://apetrovskiy.github.io/testCoFo)    |
