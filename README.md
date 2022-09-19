@@ -1,5 +1,5 @@
 ![Alexander Petrovskiy](https://user-images.githubusercontent.com/2947151/115086493-090e6500-9f15-11eb-9f88-34d176ea0a95.png)
-[.  LinkedIn](https://www.linkedin.com/in/alexanderpetrovsky/)
+[   LinkedIn](https://www.linkedin.com/in/alexanderpetrovsky/)
 <!-- [CV](https://stackoverflow.com/cv/apetrovskiy) -->
 <!-- [Dev story](https://stackoverflow.com/story/apetrovskiy) -->
 
