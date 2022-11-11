@@ -31,4 +31,4 @@
 | [httpbin-test-task](https://github.com/apetrovskiy/httpbin-test-task)                | [River Island](https://apetrovskiy.github.io/httpbin-test-task)             | Python, pytest, behave         |
 | [scala-gradle-cucumber](https://github.com/apetrovskiy/scala-gradle-cucumber)   | [Scala Cucumber Allure](https://apetrovskiy.github.io/scala-gradle-cucumber)| Scala, gradle, cucumber, allure|
 | [j4Test](https://github.com/apetrovskiy/j4Test)     | [JUnit 4 & 5 parallelization](https://apetrovskiy.github.io/j4Test)| Kotlin, gradle, JUnit 4, JUnit 5|
-| Reddit test | [testReddit](https://github.com/apetrovskiy/testReddit) | [Python, pytest](https://apetrovskiy.github.io/testReddit/) |
+| [testReddit](https://github.com/apetrovskiy/testReddit) | [Reddit test](https://apetrovskiy.github.io/testReddit/) | Python, pytest |
