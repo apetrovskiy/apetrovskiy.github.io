@@ -1,8 +1,7 @@
 ![Alexander Petrovskiy](https://user-images.githubusercontent.com/2947151/115086493-090e6500-9f15-11eb-9f88-34d176ea0a95.png)
-[   LinkedIn](https://www.linkedin.com/in/alexanderpetrovsky/)
+[LinkedIn](https://www.linkedin.com/in/alexanderpetrovsky/)
 <!-- [CV](https://stackoverflow.com/cv/apetrovskiy) -->
 <!-- [Dev story](https://stackoverflow.com/story/apetrovskiy) -->
-
 
 ### Challenges
 
@@ -13,7 +12,7 @@
 | Codela | [testCode](https://github.com/apetrovskiy/testCode)         | [Codela](https://apetrovskiy.github.io/testCode)         |
 | Code Forces | [testCoFo](https://github.com/apetrovskiy/testCoFo)    | [Code Forces](https://apetrovskiy.github.io/testCoFo)    |
 | Coderbyte | [testCoBy](https://github.com/apetrovskiy/testCoBy)      | [Coderbyte](https://apetrovskiy.github.io/testCoBy)      |
-| Code Signal | [codeSignTest](https://github.com/apetrovskiy/codeSignTest)| [Code Signal](https://apetrovskiy.github.io/codeSignTest)|
+| Code Signal | [testCoSi](https://github.com/apetrovskiy/testCoSi)| [Code Signal](https://apetrovskiy.github.io/testCoSi)|
 | Code Wars | [testCoWa](https://github.com/apetrovskiy/testCoWa)      | [Code Wars](https://apetrovskiy.github.io/testCoWa)      |
 | Codility | [testCodi](https://github.com/apetrovskiy/testCodi)       | [Codility](https://apetrovskiy.github.io/testCodi)       |
 | CS Academy | [testCsAc](https://github.com/apetrovskiy/testCsAc)     | [CS Academy](https://apetrovskiy.github.io/testCsAc)     |
